@@ -140,7 +140,7 @@ const Login = ({ isOpen, setIsOpen }) => {
                         className="relative text-blue-700 text-xs font-normal -bottom-16 align-bottom text-center"
                         to="/admin/Signup"
                       >
-                        New to ShopKart? Create an account
+                        New to MSAKart? Create an account
                       </Link>
                     </section>
                   </main>

@@ -333,7 +333,7 @@ const Mdnav = ({
         <section className="w-full bg-blue-600 justify-center flex items-center">
           <header className="text-white  py-3 flex flex-row gap-4">
             <Link to="/" className="text-2xl ">
-              ShopKart
+              MSAKart
             </Link>
             {/* <div className="bg-white flex flex-row px-0 ">
               <input
@@ -622,7 +622,7 @@ const Smnav = ({
           <header className="text-white w-full px-4 py-3 flex flex-col gap-3">
             <div className="flex flex-row justify-between">
               <Link to="/" className="text-md ml-6 ">
-                ShopKart
+                MASKart
               </Link>
 
               <div className="">
