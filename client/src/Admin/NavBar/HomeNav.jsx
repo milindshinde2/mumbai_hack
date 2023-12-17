@@ -61,7 +61,7 @@ const Lgnav = ({
         <section className="w-full bg-white justify-center flex items-center">
           <header className="text-black   py-3 flex flex-row gap-4">
             <Link to="/" className="text-2xl font-semibold text-blue-500 ">
-              ShopKart
+              MSAKart
             </Link>
             <div className="  flex-col  relative bg-white flex h-auto left-10">
               <div className="bg-blue-50 flex items-center flex-row px-1 rounded ">
@@ -106,7 +106,7 @@ const Lgnav = ({
                 <li className="group relative  text-black  rounded  cursor-pointer outline-none font-normal text-lg">
                   {user?.fullName ? (
                     <p className=" flex bg-white">
-                      ShopKart
+                      MSAKart
                       <MdKeyboardArrowDown
                         size={"1em"}
                         className="mt-2 group-hover:rotate-180 duration-150"
